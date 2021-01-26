@@ -1,0 +1,11 @@
+[ {
+  "uid" : "30c01c95eb7befb0",
+  "name" : "metodo3",
+  "time" : {
+    "start" : 1611631525480,
+    "stop" : 1611631525496,
+    "duration" : 16
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

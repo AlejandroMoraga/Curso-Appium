@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "The following asserts failed:\n\tes false expected [true] but found [false]",
+      "children" : [ {
+        "name" : "metodo3",
+        "uid" : "30c01c95eb7befb0",
+        "parentUid" : "ee4d44b073f3553a29e5d1cf8689a824",
+        "status" : "failed",
+        "time" : {
+          "start" : 1611631525480,
+          "stop" : 1611631525496,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ee4d44b073f3553a29e5d1cf8689a824"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

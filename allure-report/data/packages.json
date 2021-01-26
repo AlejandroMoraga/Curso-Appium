@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testSuite.allure",
+    "children" : [ {
+      "name" : "metodo3",
+      "uid" : "30c01c95eb7befb0",
+      "parentUid" : "a4486839b5cc8a94c8ddb426e3362dbc",
+      "status" : "failed",
+      "time" : {
+        "start" : 1611631525480,
+        "stop" : 1611631525496,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testSuite.allure"
+  } ]
+}
