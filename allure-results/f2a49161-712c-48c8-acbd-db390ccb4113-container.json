@@ -1,0 +1,1 @@
+{"uuid":"f2a49161-712c-48c8-acbd-db390ccb4113","name":"testSuite.allure.quit","children":["ac9fd938-f8e9-4568-8430-1a86e9c8d3df"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1612346887151,"stop":1612346887849}],"links":[],"start":1612346887151,"stop":1612346887849}
